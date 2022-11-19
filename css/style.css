@@ -114,7 +114,11 @@ a{
 }
 
 a:hover{
-    color: rgb(120, 7, 16);
+    color: rgb(6, 5, 5);
+}
+
+.a-red:hover{
+    color: red;
 }
 
 .work-details{
