@@ -249,5 +249,9 @@ form button{
         margin-top: 5px;
     }
 
+    .sub-pages-footer{
+        position: relative;
+    }
+
 }
 
